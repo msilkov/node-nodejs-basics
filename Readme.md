@@ -24,7 +24,7 @@ For additional information on scoring and evaluation criteria, please refer to t
 
 1. Clone the repository:
 ```bash
-   git clone <git@github.com:msilkov/node-nodejs-basics.git>
+  git clone git@github.com:msilkov/node-nodejs-basics.git
 ```
 2. Navigate to the project directory.
 3. Install the required dependencies using `npm install`.
