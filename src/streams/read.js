@@ -13,6 +13,7 @@ const read = async () => {
 	fileStream.pipe(process.stdout);
 
 	await finished(fileStream);
+
 	console.log('\nFile read successfully.');
 };
 
